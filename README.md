@@ -1,2 +1,4 @@
-# CTI-110
-Class consisting of python, database, and HTML
+# CTI-110 Repository
+Created for P1Lab2
+Ekker
+February 21, 2022
